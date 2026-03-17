@@ -1,7 +1,7 @@
 #!/bin/bash
 
 REPO_URL="https://raw.githubusercontent.com/dav473programer/aptman/refs/heads/main/aptman.sh"
-DEST_PATH="/usr/local/bin/aptman.sh"
+DEST_PATH="/usr/local/bin/aptman"
 DESKTOP_FILE="/usr/share/applications/aptman.desktop"
 echo "Installing aptman..."
 sudo wget -qO "$DEST_PATH" "$REPO_URL"
