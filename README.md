@@ -1,5 +1,5 @@
 # aptman
-A Debian Package manager written fully in bash.
+A Debian Package manager written fully in bash.\n
 Or, a wrapper for apt.
 
 How to install:
